@@ -1,7 +1,7 @@
 # P3
 class person
 {
-privare:
+private:
 string name;
 protected:
 void setname(string name)
